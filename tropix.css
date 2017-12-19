@@ -1,0 +1,279 @@
+body
+{
+  background-image:url(images/backgroundTile.jpg);
+  background-repeat:repeat;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+h1
+{
+  color:#F12D83;
+  display:inline;
+}
+
+table
+{
+  border-spacing:0px;
+}
+
+div.pageTop
+{
+  position:relative;
+  width:844px;
+  height:254px;
+}
+
+div.pageTopTop
+{
+  background-image:url(images/pageTopTop.png);
+  background-repeat:no-repeat;
+  position:relative;
+  width:844px;
+  height:31px;
+}
+
+div.pageMiddle
+{
+  background-image:url(images/pageMiddleTile.png);
+  background-repeat:repeat-y;
+  width:844px;
+}
+
+div.pageBottom
+{
+  background-image:url(images/pageBottom.png);
+  background-repeat:no-repeat;
+  width:844px;
+  height:153px;
+}
+
+div.pageContent
+{
+  width:700px;
+  padding-bottom:40px;
+}
+
+div.pageHeader
+{
+  padding-top:20px;
+  padding-bottom:40px;
+}
+
+div.tabs
+{
+  position:relative;
+  left:10px;
+  top:168px;
+}
+
+div.tabForeground
+{
+  background-image:url(images/tabForeground.png);
+  background-repeat:no-repeat;
+  position:relative;
+  top:0px;
+  width:131px;
+  height:57px;
+}
+
+table.navLinks
+{
+  position:relative;
+  top:-50px;
+}
+
+td.navLink
+{
+  width:118px;
+  text-align:center;
+}
+
+a.navLink
+{
+  text-decoration:none;
+}
+
+div.blockTropix2
+{
+  background-image:url(images/blockTropix2.jpg);
+  background-repeat:no-repeat;
+  position:relative;
+  top:20px;
+  width:715px;
+  height:389px;
+}
+
+div.blockTropix2Left
+{
+  float:left;
+  width:421px;
+}
+
+div.bannerTropix2
+{
+  position:relative;
+  left:20px;
+  top:20px;
+  width:421px;
+  height:236px;
+}
+
+div.downloadButtonTropix2
+{
+  position:relative;
+  left:20px;
+  top:30px;
+  width:423px;
+  height:95px;
+}
+
+div.downloadButtonLabel
+{
+  position:relative;
+  left:40px;
+  top:-65px;
+}
+
+div.blockTropix2Right
+{
+  position:relative;
+  float:right;
+  left:-40px;
+  top:40px;
+  width:200px;
+}
+
+table.bulletsTropix2
+{
+  width:200px;
+}
+
+div.blockTropix1
+{
+  background-image:url(images/blockTropix1.jpg);
+  background-repeat:no-repeat;
+  position:relative;
+  top:40px;
+  width:715px;
+  height:295px;
+}
+
+div.blockTropix1Left
+{
+  float:left;
+}
+
+div.bannerTropix1
+{
+  position:relative;
+  left:20px;
+  top:20px;
+  width:247px;
+  height:246px;
+}
+
+div.downloadButtonTropix1
+{
+  position:absolute;
+  left:280px;
+  top:170px;
+  width:423px;
+  height:95px;
+}
+
+div.blockTropix1Right
+{
+  float:right;
+}
+
+div.copyrightText
+{
+  position:relative;
+  top:50px;
+  color:white;
+  font-size:smaller;
+}
+
+table.bulletsTropix1
+{
+  position:absolute;
+  left:310px;
+  top:40px;
+  width:370px;
+}
+
+td.palmBullet
+{
+  width:20px;
+}
+
+div.sectionTitle
+{
+  padding-left:10px;
+  padding-right:10px;
+  border-style:solid;
+  border-width:2px;
+  border-color:#BEE7F9;
+  background-color:#BEE7F9;
+}
+
+div.sectionBlock
+{
+  padding:10px;
+  border-style:solid;
+  border-width:2px;
+  border-color:#BEE7F9;
+  font-size: smaller;
+}
+
+a.downloadButton
+{
+  text-decoration:none;
+}
+
+a.downloadLink
+{
+  font-size:larger;
+  font-weight:bold;
+}
+
+span.downloadLink
+{
+  font-size:larger;
+  font-weight:bold;
+  text-decoration:underline;
+}
+
+span.downloadSize
+{
+  font-size:x-small;
+  font-weight:normal;
+  color:#8A8A8A;
+  text-decoration:none;
+}
+
+span.shopItemDescription
+{
+  font-size:smaller;
+}
+
+div.flashGameDescription
+{
+  font-size:smaller;
+}
+
+div.selectFlashGame
+{
+  padding:40px;
+}
+
+ul.systemRequirements
+{
+  text-align:left;
+}
+
+span.leadSentence
+{
+  font-weight:bold;
+}
+
